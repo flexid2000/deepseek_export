@@ -1,4 +1,4 @@
-# deepseek_export
+# DeepSeek Export
 
 **Python script to convert the JSON chat file to single markdown files**
 
